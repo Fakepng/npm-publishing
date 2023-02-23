@@ -1,5 +1,11 @@
 # npm-publishing
 
+## 0.2.0
+
+### Minor Changes
+
+- bbe76f8: Add: Divide
+
 ## 0.1.0
 
 ### Minor Changes
